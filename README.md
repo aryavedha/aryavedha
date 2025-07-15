@@ -22,11 +22,20 @@
 
 <!-- 🔗 Connect With Me -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryavedha/"><img src="https://img.shields.io/badge/LinkedIn-AryaVedha-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-@AryaVedha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="aryavedha10@gmail.com"><img src="https://img.shields.io/badge/Email-arya.vedha@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Discover-purple?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryavedha/">
+    <img src="https://img.shields.io/badge/LinkedIn-AryaVedha-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/AryaVedha">
+    <img src="https://img.shields.io/badge/Twitter-@AryaVedha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:aryavedha123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arya.vedha🔴@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Discover-purple?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 </p>
