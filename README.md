@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-AryaVedha-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-@AryaVedha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:aryavedha10@gmail.com"><img src="https://img.shields.io/badge/Email-arya.vedha@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="arya.vedha@example.com"><img src="https://img.shields.io/badge/Email-aryavedha10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Discover-purple?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
