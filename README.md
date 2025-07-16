@@ -13,7 +13,7 @@
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   Hi, I'm <strong>Arya Vedha</strong> 
-  <em>(DevOps Engineer)</em>
+  <em>(DevOps & SRE Engineer)</em>
   </h2>
   
 <p align="center">
