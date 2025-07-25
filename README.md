@@ -53,14 +53,16 @@
 <h3>🔍 About Me</h3>
 
 
-- 🔧 DevOps Engineer with 3+ years of experience in cloud infrastructure and automation.
-- ☁️ Expertise in AWS, Azure, and GCP cloud platforms.
-- 🐳 Proficient in containerization using Docker and orchestration with Kubernetes.
-- 🛠️ Skilled in configuration management with Ansible and infrastructure as code using Terraform.
-- 🔁 CI/CD pipelines implementation using Jenkins and GitHub Actions.
-- 🐧 Strong background in Linux system administration and shell scripting.
-- 🗄️ Experience with databases like MySQL, MongoDB, and Redis.
-- 🧰 Familiar with build tools like Maven and application servers like Tomcat and Nginx.
+🔧 DevOps Engineer with 3+ years of experience in cloud infrastructure and automation.
+☁️ Expertise in AWS, Azure, and GCP platforms.
+🐳 Proficient in containerization with Docker and orchestration using Kubernetes.
+🛠️ Skilled in configuration management using Ansible and infrastructure as code with Terraform.
+🔁 CI/CD pipelines implementation using Jenkins and GitHub Actions.
+🐧 Strong background in Linux system administration and shell scripting.
+🗄️ Experience with MySQL, MongoDB, and Redis.
+🧰 Familiar with build tools like Maven and application servers such as Tomcat and Nginx.
+🔧 Proficient in Git for version control and GitOps workflows 
+📊 Implemented Prometheus monitoring and alerting systems and built dashboards in Grafana to visualize system metrics and ensure observability
   
 
 </td>
