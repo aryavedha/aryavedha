@@ -97,6 +97,12 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 
 <td valign="top" width="50%">
 
+
+<!-- 👨 Animated Avatar GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="2000" style="border-radius: 50%;" alt="dev gif"/>
+
+<!-- 👨‍💻 Animated Intro -->
+
 <h3>📊 Skill Overview</h3>
 
 <table>
@@ -108,12 +114,9 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
   <tr><td><strong>🗄️ Databases</strong></td><td>▰▰▰▱▱</td></tr>
 </table>
 
-<!-- 👨 Animated Avatar GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="2000" style="border-radius: 50%;" alt="dev gif"/>
-
-<!-- 👨‍💻 Animated Intro -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+---
+<!-- 👨‍💻 most languages used data -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryavedha&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 </td>
 </tr>
