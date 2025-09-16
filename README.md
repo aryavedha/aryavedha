@@ -69,7 +69,7 @@ Key Highlights:
 
 - 🔁 Built CI/CD pipelines using Jenkins and GitHub Actions.
 
-- 🐧 Strong background in Linux system administration and shell scripting.
+- 🐧 Strong background in Linux system administration and Shell Scripting.
 
 - 🗄️ Hands-on with MySQL, PostgreSQL, MongoDB, and Redis for database and caching solutions.
 
@@ -77,9 +77,7 @@ Key Highlights:
 
 - 📊 Implemented monitoring and observability using Prometheus, Grafana, Nagios, and CloudWatch.
 
-- 🔐 Integrated DevSecOps tools like SonarQube, Trivy, and GitLeaks into workflows.
-
-- 🔧 Proficient in Git, GitHub, and Bitbucket, with experience in Agile methodologies using JIRA.
+- 🔐 Integrated DevSecOps tools like SonarQube, Trivy, GitLeaks, OWASP Dependency-Check, and HashiCorp Vault into workflows.
 
 I am passionate about automation, cloud-native practices, and DevSecOps, and I continuously strive to improve workflows that bridge development and operations seamlessly.
   
