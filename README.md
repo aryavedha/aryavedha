@@ -53,7 +53,7 @@
 <h3>🔍 About Me</h3>
 
 
-- 🔧 DevOps Engineer with 3+ years of experience in cloud infrastructure and automation.
+- 🔧 DevOps Engineer with 1+ years of experience in cloud infrastructure and automation.
 - ☁️ Expertise in AWS, Azure, and GCP platforms.
 - 🐳 Proficient in containerization with Docker and orchestration using Kubernetes.
 - 🛠️ Skilled in configuration management using Ansible and infrastructure as code with Terraform.
