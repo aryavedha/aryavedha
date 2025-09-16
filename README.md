@@ -99,7 +99,7 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 
 
 <!-- 👨 Animated Avatar GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="2000" style="border-radius: 50%;" alt="dev gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="1500" style="border-radius: 50%;" alt="dev gif"/>
 
 <!-- 👨‍💻 Animated Intro -->
 
