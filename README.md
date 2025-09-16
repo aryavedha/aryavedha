@@ -53,16 +53,35 @@
 <h3>🔍 About Me</h3>
 
 
-- 🔧 DevOps Engineer with 1+ years of experience in cloud infrastructure and automation.
-- ☁️ Expertise in AWS, Azure, and GCP platforms.
-- 🐳 Proficient in containerization with Docker and orchestration using Kubernetes.
-- 🛠️ Skilled in configuration management using Ansible and infrastructure as code with Terraform.
-- 🔁 CI/CD pipelines implementation using Jenkins and GitHub Actions.
+About Me
+
+I’m a DevOps Engineer with hands-on experience in designing, automating, and managing scalable cloud-native infrastructure. I work across cloud platforms (AWS, Azure, GCP), CI/CD automation, containerization, and infrastructure as code. I enjoy building reliable systems that improve productivity, security, and performance.
+
+Key Highlights:
+
+- 🔧 1+ years of experience in DevOps, cloud infrastructure, and automation.
+
+- ☁️ Skilled in AWS (EC2, S3, IAM, EBS, VPC, Lambda, EKS), with working knowledge of Azure and GCP.
+
+- 🐳 Proficient in Docker and Kubernetes, with Helm for package management.
+
+- 🛠️ Experienced in Ansible and Terraform for configuration management and IaC.
+
+- 🔁 Built CI/CD pipelines using Jenkins and GitHub Actions.
+
 - 🐧 Strong background in Linux system administration and shell scripting.
-- 🗄️ Experience with MySQL, MongoDB, and Redis.
-- 🧰 Familiar with build tools like Maven and application servers such as Tomcat and Nginx.
-- 🔧 Proficient in Git for version control and GitOps workflows 
-- 📊 Implemented Prometheus monitoring and alerting systems and built dashboards in Grafana to visualize system metrics and ensure observability
+
+- 🗄️ Hands-on with MySQL, PostgreSQL, MongoDB, and Redis for database and caching solutions.
+
+- 🌐 Worked with Apache, Tomcat, and Nginx for web/application hosting.
+
+- 📊 Implemented monitoring and observability using Prometheus, Grafana, Nagios, and CloudWatch.
+
+- 🔐 Integrated DevSecOps tools like SonarQube, Trivy, and GitLeaks into workflows.
+
+- 🔧 Proficient in Git, GitHub, and Bitbucket, with experience in Agile methodologies using JIRA.
+
+I am passionate about automation, cloud-native practices, and DevSecOps, and I continuously strive to improve workflows that bridge development and operations seamlessly.
   
 
 </td>
