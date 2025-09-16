@@ -42,6 +42,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=36BCF7&width=450&height=40&lines=DevOps+%7C+Cloud+%7C+IaC+%7C+CI%2FCD;Always+learning+new+techs+%F0%9F%9A%80;Let%27s+automate+everything!" alt="Typing SVG" />
 
 ---
+
 </div>
 <!-- 🧑‍💻 ABOUT + SKILLS -->
 <div align="center">
