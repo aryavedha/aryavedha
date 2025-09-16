@@ -1,14 +1,12 @@
 <!-- 🎨 Dynamic Two‑Color Capsule Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=110&section=header&text=Dev+Ops&fontSize=40" alt="Arya Vedha"/>
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=80&section=header&text=Dev+Ops&fontSize=40" alt="Arya Vedha"/>
 </p>
 
 <div align="center">
-  
-<!-- 👨 Animated Avatar GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" height="150" style="border-radius: 50%;" alt="dev gif"/>
 
-<!-- 👨‍💻 Animated Intro -->
+<!-- add banner below -->  
+
 <!-- 👋 Intro with Animation -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
@@ -28,7 +26,7 @@
   <a href="https://twitter.com/AryaVedha">
     <img src="https://img.shields.io/badge/Twitter-@AryaVedha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:aryavedha123@gmail.com">
+  <a href="mailto:aryavedha10@gmail.com">
     <img src="https://img.shields.io/badge/Email-arya.vedha🔴@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com">
@@ -97,7 +95,10 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
   <tr><td><strong>🗄️ Databases</strong></td><td>▰▰▰▱▱</td></tr>
 </table>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px" style="margin-top: 10px;" />
+<!-- 👨 Animated Avatar GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="1200" style="border-radius: 50%;" alt="dev gif"/>
+
+<!-- 👨‍💻 Animated Intro -->
 
 </td>
 </tr>
@@ -112,6 +113,32 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6AC1&center=true&vCenter=true&width=435&lines=%F0%9F%8C%88+My+Tech+Stack" alt="Typing SVG" />
 </h2>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</p>
+
+---
 
 <!-- ✨ Divider -->
 <p align="center">
