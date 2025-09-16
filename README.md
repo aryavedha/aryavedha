@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<!-- add banner below -->  
+<!-- aryavedha banner.png below -->  
 <div align="center">
   <img src="https://github.com/aryavedha/aryavedha/blob/main/banner devops.png" alt="aryavedha Banner">
 </div>
@@ -98,7 +98,7 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 </table>
 
 <!-- 👨 Animated Avatar GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="1200" style="border-radius: 50%;" alt="dev gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="2000" style="border-radius: 50%;" alt="dev gif"/>
 
 <!-- 👨‍💻 Animated Intro -->
 
