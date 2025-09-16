@@ -50,6 +50,17 @@
 <tr>
 <td valign="top" width="50%">
 
+  ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryavedha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/arya_vedha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@aryavedha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
+
+---
+
 <h3>🔍 About Me</h3>
 
 
@@ -102,6 +113,8 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 
 <!-- 👨‍💻 Animated Intro -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
 </td>
 </tr>
 </table>
@@ -110,6 +123,15 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20%F0%9F%9A%80;Cloud%20Native%20%7C%20IaC%20%7C%20CI%2FCD%20Expert;Linux%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Terraform&font=Fira%20Code&center=true&width=600&height=45&color=00C9A7&vCenter=true&size=22&pause=1000&repeat=true" alt="Typing SVG" />
+
+---
+
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+
+---
   
 <!-- 🌈 Animated Tech Stack Title -->
 <h2 align="center">
