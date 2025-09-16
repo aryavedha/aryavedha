@@ -6,7 +6,9 @@
 <div align="center">
 
 <!-- add banner below -->  
-
+<div align="center">
+  <img src="https://github.com/aryavedha/aryavedha/blob/main/banner devops.png" alt="aryavedha Banner">
+</div>
 <!-- 👋 Intro with Animation -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
