@@ -124,12 +124,10 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 </table>
 </div>
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20%F0%9F%9A%80;Cloud%20Native%20%7C%20IaC%20%7C%20CI%2FCD%20Expert;Linux%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Terraform&font=Fira%20Code&center=true&width=600&height=45&color=00C9A7&vCenter=true&size=22&pause=1000&repeat=true" alt="Typing SVG" />
 
 ---
-  
+
+
 <!-- 🌈 Animated Tech Stack Title -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6AC1&center=true&vCenter=true&width=435&lines=%F0%9F%8C%88+My+Tech+Stack" alt="Typing SVG" />
@@ -251,5 +249,12 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=footer"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20%F0%9F%9A%80;Cloud%20Native%20%7C%20IaC%20%7C%20CI%2FCD%20Expert;Linux%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Terraform&font=Fira%20Code&center=true&width=600&height=45&color=00C9A7&vCenter=true&size=22&pause=1000&repeat=true" alt="Typing SVG" />
+
+---  
 
 ---
