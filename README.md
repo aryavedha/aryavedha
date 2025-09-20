@@ -64,9 +64,6 @@
 
 <h3>🔍 About Me</h3>
 
-
-About Me
-
 I’m a DevOps Engineer with hands-on experience in designing, automating, and managing scalable cloud-native infrastructure. I work across cloud platforms (AWS, Azure, GCP), CI/CD automation, containerization, and infrastructure as code. I enjoy building reliable systems that improve productivity, security, and performance.
 
 Key Highlights:
