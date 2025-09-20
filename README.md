@@ -149,7 +149,6 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
@@ -161,9 +160,7 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -189,6 +186,7 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
     <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge"/>
     </td>
     <td align="left">
       📦 <strong>Containers & Orchestration</strong>
@@ -207,6 +205,7 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
     <td align="center">
       <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge"/>
     </td>
     <td align="left">
       🔁 <strong>CI/CD & Version Control</strong>
@@ -224,11 +223,12 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
     </td>
     <td align="left">
-      🗄️ <strong>Databases</strong>
+      🗄️ <strong>Databases & Caching</strong>
     </td>
   </tr>
   <tr>
@@ -239,6 +239,38 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
     </td>
     <td align="left">
       🛠️ <strong>Build Tools & Web Servers</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Nagios-CC0000?logo=nagios&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/CloudWatch-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
+    </td>
+    <td align="left">
+      📊 <strong>Monitoring & Logging</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Trivy-1904DA?logo=aqua&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/GitLeaks-F44D27?logo=git&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white&style=for-the-badge"/>
+    </td>
+    <td align="left">
+      🔐 <strong>DevSecOps Tools</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Agile-2496ED?logo=agile&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"/>
+    </td>
+    <td align="left">
+      📌 <strong>Methodologies & Tools</strong>
     </td>
   </tr>
 </table>
