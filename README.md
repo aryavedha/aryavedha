@@ -101,15 +101,45 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 
 <!-- 👨‍💻 Animated Intro -->
 
-<h3>📊 Skill Overview</h3>
+<h3 align="center">📊 Skill Overview</h3>
 
-<table>
-  <tr><td><strong>☁️ Cloud (AWS/Azure/GCP)</strong></td><td>▰▰▰▰▱</td></tr>
-  <tr><td><strong>🐳 Containers (Docker, K8s)</strong></td><td>▰▰▰▰▱</td></tr>
-  <tr><td><strong>🧱 Infra-as-Code</strong></td><td>▰▰▰▰▱</td></tr>
-  <tr><td><strong>🔁 CI/CD Pipelines</strong></td><td>▰▰▰▰▱</td></tr>
-  <tr><td><strong>🐧 Linux & Shell</strong></td><td>▰▰▰▰▱</td></tr>
-  <tr><td><strong>🗄️ Databases</strong></td><td>▰▰▰▱▱</td></tr>
+<table align="center">
+  <tr>
+    <td><strong>☁️ Cloud (AWS/Azure/GCP)</strong></td>
+    <td>▰▰▰▰▱</td>
+  </tr>
+  <tr>
+    <td><strong>🐳 Containers (Docker, K8s, Helm)</strong></td>
+    <td>▰▰▰▱▱</td>
+  </tr>
+  <tr>
+    <td><strong>🧱 Infrastructure as Code (Terraform, Ansible)</strong></td>
+    <td>▰▰▰▱▱</td>
+  </tr>
+  <tr>
+    <td><strong>🔁 CI/CD Pipelines (Jenkins, GitHub Actions)</strong></td>
+    <td>▰▰▰▰▱</td>
+  </tr>
+  <tr>
+    <td><strong>🐧 Linux & Shell Scripting</strong></td>
+    <td>▰▰▰▱▱</td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases (MySQL, PostgreSQL, MongoDB, Redis)</strong></td>
+    <td>▰▰▰▱▱</td>
+  </tr>
+  <tr>
+    <td><strong>🛡️ DevSecOps (SonarQube, Trivy, Vault, GitLeaks)</strong></td>
+    <td>▰▰▰▰▱</td>
+  </tr>
+  <tr>
+    <td><strong>📊 Monitoring (Prometheus, Grafana, Nagios, CloudWatch)</strong></td>
+    <td>▰▰▰▰▱</td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Web & App Servers (Apache, Tomcat, Nginx)</strong></td>
+    <td>▰▰▰▰▱</td>
+  </tr>
 </table>
 
 ---
