@@ -114,7 +114,7 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 
 ---
 <!-- 👨‍💻 most languages used data -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryavedha&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryavedha123@gmail.com&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 </td>
 </tr>
