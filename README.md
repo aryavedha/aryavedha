@@ -17,7 +17,7 @@
   </h2>
   
 <p align="center">
-  <em>🚀 DevOps Engineer with 1+ years of experience in building resilient, cloud-native infrastructure.</em>
+  <em>🚀 DevOps & SRE Engineer with 1+ years of experience in building resilient, cloud-native infrastructure.</em>
 </p>
 
 <!-- 🔗 Connect With Me -->
