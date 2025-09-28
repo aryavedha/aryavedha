@@ -7,7 +7,7 @@
 
 <!-- aryavedha banner.png below -->  
 <div align="center">
-  <img src="https://github.com/aryavedha/aryavedha/blob/main/banner devops.png" alt="aryavedha Banner">
+  <img src="https://github.com/aryavedha/aryavedha/blob/main/devops github banner.png" alt="aryavedha Banner">
 </div>
 <!-- 👋 Intro with Animation -->
 <h2 align="center">
