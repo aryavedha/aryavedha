@@ -13,11 +13,11 @@
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   Hi, I'm <strong>Arya Vedha</strong> 
-  <em>(DevOps & SRE Engineer)</em>
+  <em>(DevOps Engineer)</em>
   </h2>
   
 <p align="center">
-  <em>🚀 DevOps & SRE Engineer with 1+ years of experience in building resilient, cloud-native infrastructure.</em>
+  <em>🚀 DevOps Engineer with 1.5 years of experience in building resilient, cloud-native infrastructure.</em>
 </p>
 
 <!-- 🔗 Connect With Me -->
@@ -64,11 +64,11 @@
 
 <h3>🔍 About Me</h3>
 
-I’m a DevOps & SRE Engineer with hands-on experience in designing, automating, and managing scalable cloud-native infrastructure. I work across cloud platforms (AWS, Azure, GCP), CI/CD automation, containerization, and infrastructure as code. I enjoy building reliable systems that improve productivity, security, and performance.
+I’m a DevOps Engineer with hands-on experience in designing, automating, and managing scalable cloud-native infrastructure. I work across cloud platforms (AWS, Azure, GCP), CI/CD automation, containerization, and infrastructure as code. I enjoy building reliable systems that improve productivity, security, and performance.
 
 Key Highlights:
 
-- 🔧 1+ years of experience in DevOps, cloud infrastructure, and automation.
+- 🔧 1.5 years of experience in DevOps, cloud infrastructure, and automation.
 
 - ☁️ Skilled in AWS (EC2, S3, IAM, EBS, VPC, Lambda, EKS), with working knowledge of Azure and GCP.
 
