@@ -20,45 +20,19 @@
   <em>🚀 DevOps Engineer with 1.5 years of experience in building resilient, cloud-native infrastructure.</em>
 </p>
 
+---
 <!-- 🔗 Connect With Me -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryavedha/">
-    <img src="https://img.shields.io/badge/LinkedIn-AryaVedha-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/AryaVedha">
-    <img src="https://img.shields.io/badge/Twitter-@AryaVedha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:aryavedha10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arya.vedha🔴@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Discover-purple?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
-
----
-</p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=36BCF7&width=450&height=40&lines=DevOps+%7C+Cloud+%7C+IaC+%7C+CI%2FCD;Always+learning+new+techs+%F0%9F%9A%80;Let%27s+automate+everything!" alt="Typing SVG" />
-
----
-
-</div>
-<!-- 🧑‍💻 ABOUT + SKILLS -->
-<div align="center">
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-  ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aryavedha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/arya_vedha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@aryavedha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
+
+---
+
+</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=36BCF7&width=450&height=40&lines=DevOps+%7C+Cloud+%7C+IaC+%7C+CI%2FCD;Always+learning+new+techs+%F0%9F%9A%80;Let%27s+automate+everything!" alt="Typing SVG" />
 
 ---
 
@@ -98,11 +72,7 @@ I’m a DevOps Engineer with hands-on experience in designing, automating, and m
 
 I am passionate about automation, cloud-native practices, and DevSecOps, and I continuously strive to improve workflows that bridge development and operations seamlessly.
   
-</td>
-
-<td valign="top" width="50%">
-
-
+---
 <!-- 👨 Animated Avatar GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="1500" style="border-radius: 50%;" alt="dev gif"/>
 
@@ -164,15 +134,6 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
     <td>▰▰▰▱▱</td>
   </tr>
 </table>
-
-
----
-
-
-</td>
-</tr>
-</table>
-</div>
 
 
 ---
