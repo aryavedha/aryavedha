@@ -148,7 +148,7 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 
 <!-- ✨ Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=header"/>
 </p>
 
 <!-- 💡 Two-Column Table -->
@@ -309,7 +309,7 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 
 <!-- ✨ Bottom Wave Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer"/>
 </p>
 
 ---
@@ -317,4 +317,12 @@ I am passionate about automation, cloud-native practices, and DevSecOps, and I c
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20%F0%9F%9A%80;Cloud%20Native%20%7C%20IaC%20%7C%20CI%2FCD%20Expert;Linux%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Terraform&font=Fira%20Code&center=true&width=600&height=45&color=00C9A7&vCenter=true&size=22&pause=1000&repeat=true" alt="Typing SVG" />
 
----  
+---
+<!-- 🎨 Dynamic Two‑Color Capsule Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=220&section=header&text=DevSecOps&fontSize=40" alt="Arya Vedha"/>
+</p>
+
+<div align="center">
+  
+---
