@@ -42,7 +42,7 @@ I’m a DevOps Engineer with hands-on experience in designing, automating, and m
 
 🚀 Key Highlights:
 
-- 🔧 1.5+ years of hands-on experience in DevOps, cloud infrastructure, automation, and security-focused delivery.
+- 🔧 4+ years of hands-on experience in DevOps, cloud infrastructure, automation, and security-focused delivery.
 
 - ☁️ Cloud Expertise: Strong in AWS (EC2, S3, IAM, EBS, VPC, Lambda, ECR, EKS, CloudFormation) with working knowledge of Azure and GCP.
 
