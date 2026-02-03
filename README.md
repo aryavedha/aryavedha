@@ -17,7 +17,7 @@
   </h2>
   
 <p align="center">
-  <em>🚀 DevOps Engineer with 1.5 years of experience in building resilient, cloud-native infrastructure.</em>
+  <em>🚀 DevOps Engineer | Cloud-Native Infrastructure | 4+ Years Experience</em>
 </p>
 
 ---
